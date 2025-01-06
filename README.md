@@ -1,3 +1,24 @@
+# Master_Final_Project
+
+figma : https://www.figma.com/design/9XWNIqAS6akLqgMihkfgMS/Untitled?node-id=0-1&p=f&t=LcIzDvLN0D5aT3SR-0
+trello:https://trello.com/b/7d7x77DG/alma-embroidery-tools
+model:https://www.canva.com/design/DAGZ9iqpV0Y/dmwGt4kqn0GSSZoi1mV5iA/edit
+https://prezi.com/p/edit/vxxrsudnflq2/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
